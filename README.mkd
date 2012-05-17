@@ -1,0 +1,16 @@
+= My Xcode Template
+== install
+```
+make install
+```
+or
+```
+make force
+```
+
+== templates
+=== Testing
+- GHunit
+- OCMock
+- NLTHTTPStubServer
+- Kiwi
