@@ -1,5 +1,5 @@
-= My Xcode Template
-== install
+# My Xcode Template
+## install
 ```
 make install
 ```
@@ -8,8 +8,8 @@ or
 make force
 ```
 
-== templates
-=== Testing
+## templates
+### Testing
 - GHunit
 - OCMock
 - NLTHTTPStubServer
