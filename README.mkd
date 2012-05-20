@@ -9,6 +9,9 @@ make force
 ```
 
 ## templates
+### Utility
+- Singleton (ARC)
+
 ### Testing
 - GHunit by https://github.com/zenkimoto/ghunit-ocmock-xcode4-template
 - OCMock by https://github.com/zenkimoto/ghunit-ocmock-xcode4-template
