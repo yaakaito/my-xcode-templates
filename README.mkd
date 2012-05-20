@@ -10,7 +10,7 @@ make force
 
 ## templates
 ### Testing
-- GHunit
-- OCMock
+- GHunit by https://github.com/zenkimoto/ghunit-ocmock-xcode4-template
+- OCMock by https://github.com/zenkimoto/ghunit-ocmock-xcode4-template
 - NLTHTTPStubServer
 - Kiwi
