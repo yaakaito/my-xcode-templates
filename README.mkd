@@ -17,3 +17,5 @@ make force
 - OCMock by https://github.com/zenkimoto/ghunit-ocmock-xcode4-template
 - NLTHTTPStubServer
 - Kiwi
+- Specta
+- OCUnit + OCHamcrest
